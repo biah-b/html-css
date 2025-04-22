@@ -1,0 +1,7 @@
+<html>
+<head> 
+<title>
+<h1> Portfolio de Beatriz </h1>
+<body>
+<h6> Eu estou aprendendo a mexer no html hoje>
+</html>
